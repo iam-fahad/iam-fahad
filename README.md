@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-fahad
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning java
 - 💞️ I'm seeking for job in field of data science
   
 
